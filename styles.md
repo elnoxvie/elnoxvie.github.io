@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Theme Styles
-published:false
+published: false
 ---
 
 ## Full Style Test

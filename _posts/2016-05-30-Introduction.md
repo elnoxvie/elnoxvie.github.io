@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Introduction 
+published: false
 ---
 
-My name is Andrew Chen. I am working as a Lead Android Developer. I am particularly interested in the following topics.
+Hi, My name is Andrew. I am working as a Lead Android Developer in Singapore. I have a strong interests in the following topics.
 
 1. Android
 2. Learning How to Learn
@@ -11,6 +12,6 @@ My name is Andrew Chen. I am working as a Lead Android Developer. I am particula
 4. Maths 
 5. Lastly, Philosophy
 
-My future topics will be revolving around these. Stay tune. 
+My future posts will be revolving around these topics. Stay tune. 
 
-Thanks for visiting. 
+Thank you for visiting. 
