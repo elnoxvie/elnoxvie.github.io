@@ -1,0 +1,28 @@
+gems: [jekyll-paginate, jekyll-gist]
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Elnoxvie's Blog
+tagline:          Blog 
+description:      "A simple blog covering tips and tricks for Android and other technical and non technical matters"
+url:              https://github.com/elnoxvie/elnoxvie.github.io
+baseurl:          /
+
+author:
+  name:           'Andrew Chen'
+  url:            https://twitter.com/elnoxvie
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/elnoxvie
